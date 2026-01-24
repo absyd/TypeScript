@@ -8,7 +8,7 @@
 ## Running 
 1. Day_1
  - Learning
-1. Day_2
+1. Day_2 failed
 1. Day_3
 1. Day_4
 1. Day_5
