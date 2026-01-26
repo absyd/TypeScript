@@ -123,3 +123,16 @@ interface BackPack<Type>{
 
 
 // ========== Structural Types ==========
+
+interface point{
+    x:number,
+    y:number
+}
+
+function logPoint(p:point):void{
+    console.log(`x = ${p.x} , y = ${p.y}`);
+}
+
+const point3D = {x:1,y:2,z:3};
+
+logPoint(point3D); // it works because of structural typing
