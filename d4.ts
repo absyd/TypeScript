@@ -1,1 +1,1 @@
-console.log("Haven't enogh time just for streak");
+console.log("Haven't enogh time just for streak");console.log("Haven't enogh time just for streak");
