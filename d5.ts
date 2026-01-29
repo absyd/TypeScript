@@ -1,0 +1,1 @@
+console.log("Haven't enogh time just for streak");
