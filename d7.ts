@@ -1,0 +1,1 @@
+console.log("Fucked UP with this education system");
