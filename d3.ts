@@ -2,10 +2,10 @@
 
 // ========== Structural Types ==========
 
-interface Point{
-    x:number,
-    y:number
-}
+// interface Point{
+//     x:number,
+//     y:number
+// }
 
 function logPoint(p:Point):void{
     console.log(`x = ${p.x} , y = ${p.y}`);
